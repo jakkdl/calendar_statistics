@@ -1,0 +1,2 @@
+[MASTER]
+init-hook='import sys; sys.path.append("./.virtualenv/analyze_calendar-edpa/lib/python3.10/site-packages")'
